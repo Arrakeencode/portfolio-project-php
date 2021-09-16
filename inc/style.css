@@ -1,0 +1,11 @@
+body{
+    padding-top:70px;
+}
+
+main{
+    min-height:calc(100vh - 150px);
+}
+#camera{
+    font-size:3rem;
+    cursor: pointer;
+}
